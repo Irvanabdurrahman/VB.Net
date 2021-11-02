@@ -1,0 +1,12 @@
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Employee.resources
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\DataIrvan\Testing\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
